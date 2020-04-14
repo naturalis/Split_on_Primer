@@ -15,7 +15,7 @@ Installation instructions
 -------------------------
 
 The script can be cloned from the github repository. ~~The python code works with 
-both python versions 2.7 and 3.0 or higher.~~ Does not work with py3.
+both python versions 2.7 and 3.0 or higher.~~ **_Does not work with py3._**
 
 General usage
 -------------
