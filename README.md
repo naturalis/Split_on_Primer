@@ -71,7 +71,7 @@ Full command information
 
 Command line arguments:
 
-	Split\_on\_Primer.py [-h] [-f Sequence file] [-p Primer file]
+	Split_on_Primer.py [-h] [-f Sequence file] [-p Primer file]
 		[-m Mismatches allowed] [-s Nucleotide shift allowed]
 		[-t] [-d CSV delimiter] [-c Number of Cores]
 		[--chunk Chunk size]
