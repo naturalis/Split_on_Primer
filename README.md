@@ -1,6 +1,9 @@
 Split\_on\_Primer.py
 ===================
 
+!! tool superseded by [galaxy-tool-split-on-primer](https://github.com/naturalis/galaxy-tool-split-on-primer) !!
+-------------------------
+
 To increase the efficiency of next generation sequences such as the Illumina HiSeq and the
 IonTorrent multiple samples can be pooled into a single run on these machines. To separate
 these samples from the mountain of reads produced small barcode sequences (such as MID
